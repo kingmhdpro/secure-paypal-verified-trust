@@ -1,2 +1,2 @@
 # secure-paypal-verified-trust
-un site de gere dargent
+verification et securisation de compte paypal
